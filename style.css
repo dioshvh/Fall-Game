@@ -3,8 +3,8 @@
     margin: 0;
 }
 #game{
-    width: 400px;
-    height: 500px;
+    width: 1280px;
+    height: 720px;
     border: 1px solid black;
     margin: auto;
     overflow: hidden;
