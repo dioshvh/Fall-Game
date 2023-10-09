@@ -9,10 +9,11 @@
     margin: auto;
     overflow: hidden;
 }
+//ball color
 #character{
     width: 20px;
     height: 20px;
-    background-color: blueviolet;
+    background-color: red; 
     border-radius: 50%;
     position: relative;
     top: 400px;
